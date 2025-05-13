@@ -18,6 +18,6 @@ To recapitulate these results, the user must first run the preprocessing file. T
 Scattered throughout the github we also have multiple formats of the data as well as iterations of the code to show that we are human and that this took multiple iterations. If you want to stray into the other files
 you may, however remember that they might not be complete or fully working. 
 
-If you have any questions feel free to reach out to Leo Williams or Sergion Quispe Sanchez :)
+If you have any questions feel free to reach out to Leo Williams or Sergio Quispe Sanchez :)
 
 ![image](https://github.com/user-attachments/assets/d0de4c2a-cf47-4bc1-b6f7-ef658e22aa00)
